@@ -61,9 +61,8 @@ This is a take-away assessment should take no longer than 2-3 hours.
 ### Submission
 
 #### Part 1
-1. Create a PR by using your forked repo
-2. Adding all your notes into this `readme`
-3. Send us your fork repo link
+1. Adding all your notes into this `readme`
+2. Send us your forked repo link
 
 #### Part 2
 1. create a public repo under your github account and send us the link
