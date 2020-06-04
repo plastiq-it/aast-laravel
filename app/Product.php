@@ -10,6 +10,7 @@ use Illuminate\Database\Eloquent\Model;
  * @property $description
  * @property $price
  * @property $is_active
+ * @property $hidden_information
  * Class Product
  * @package App
  */
