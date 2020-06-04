@@ -37,10 +37,10 @@ The API needs to satisfy
     
    GET /api/products
     
-    - supports query filter: `is_active` only accepts `1` or `0` and its `required`
-    - support query validation by using `ProductApiRequest.php`
-    - products should not display `hidden_information` field
-    - Write a feature test for the API. The test needs to check status and response data.
+- supports query filter: `is_active` only accepts `1` or `0` and its `required`
+- support query validation by using `ProductApiRequest.php`
+- products should not display `hidden_information` field
+- Write a feature test for the API. The test needs to check status and response data.
 
 
 #### Part 2
