@@ -10,7 +10,8 @@ $factory->define(\App\Product::class, function (Faker $faker) {
         'name' => $faker->name,
         'sku' => $faker->randomNumber(8),
         'description' => $faker->text(100),
-        'price' => $faker->randomFloat(2,0,50),
+        'price' => $faker->randomFloat(2, 0, 50),
         'is_active' => $faker->boolean(70),
+        'hidden_information' => $faker->text(10)
     ];
 });

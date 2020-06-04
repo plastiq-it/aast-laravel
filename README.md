@@ -26,6 +26,7 @@ This is a take-away assessment should take no longer than 2-3 hours.
 
     - A `ProductApiController.php` that contains a function which requires you to implement the logic
     - A `ProductApiRequest.php`
+    - A `Product.php` eloquent model
     - A registered route in `api.php` (we do not require any auth or middleware in this assessment)
     - A seed files for you to seed initial Product data for live testing
     
@@ -37,6 +38,7 @@ This is a take-away assessment should take no longer than 2-3 hours.
         - supports query filter: `is_active` only accepts `1` or `0`
         - Success status code: `200`
         - support validation on query by using `ProductApiRequest.php`
+        - products should not display `hidden_information` field
         
 4. Write a feature test for your endpoint.
 

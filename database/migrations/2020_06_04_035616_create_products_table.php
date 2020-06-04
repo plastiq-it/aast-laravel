@@ -18,6 +18,7 @@ class CreateProductsTable extends Migration
             $table->string('name');
             $table->string('sku');
             $table->text('description');
+            $table->text('hidden_information')->nullable();
             $table->float('price');
             $table->boolean('is_active')->default(true);
             $table->timestamps();
