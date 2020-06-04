@@ -28,19 +28,18 @@ This is a take-away assessment should take no longer than 2-3 hours.
     - A `ProductApiRequest.php`
     - A `Product.php` eloquent model
     - A registered route in `api.php` (we do not require any auth or middleware in this assessment)
-    - A seed files for you to seed initial Product data for live testing
+    - A seeder class for you to seed initial Product data for live testing
     
 3. Please finish API endpoint by satisfying the following requirements:
 
     - The API needs to satisfy
     
     GET /api/products
-        - supports query filter: `is_active` only accepts `1` or `0`
-        - Success status code: `200`
-        - support validation on query by using `ProductApiRequest.php`
+        - supports query filter: `is_active` only accepts `1` or `0` and its `required`
+        - support query validation by using `ProductApiRequest.php`
         - products should not display `hidden_information` field
         
-4. Write a feature test for your endpoint.
+4. Write a feature test for your endpoint. The test needs to check status and response data.
 
 
 #### Part 2
@@ -82,3 +81,5 @@ Some potential add-ons:
 
 You can be creative and expand functionality as long as requirements are met.
 
+
+Happy Coding!

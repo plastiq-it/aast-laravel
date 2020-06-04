@@ -18,9 +18,9 @@ class ProductApiController extends Controller
 
         return new JsonResponse(
             [
-                'data' => [
-
-                ]
+                'status' => 'success',
+                'message' => 'Successfully retrieved products.',
+                'data' => []
             ],
             200
         );
