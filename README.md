@@ -29,6 +29,7 @@ This is a take-away assessment should take no longer than 2-3 hours.
     - A `Product.php` eloquent model
     - A registered route in `api.php` (we do not require any auth or middleware in this assessment)
     - A seeder class for you to seed initial Product data for live testing
+    - A factory file `ProductFactory.php` - use it for mock
     
 3. Please finish API endpoint by satisfying the following requirements:
 
