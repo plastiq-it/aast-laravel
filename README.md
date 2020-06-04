@@ -65,7 +65,7 @@ This is a take-away assessment should take no longer than 2-3 hours.
 2. Send us your forked repo link
 
 #### Part 2
-1. create a public repo under your github account and send us the link
+1. create a public repo under your github account for the WP project and send us the link
 2. Include any special setup details if you need to tell us in the `readme`
 
 
@@ -78,6 +78,7 @@ Some potential add-ons:
 - Add filter option on `is_active` in wordpress page
 - Add wildcard search on name filter in API or in wordpress page
 ...
+- Or any other idea you could come up with
 
 You can be creative and expand functionality as long as requirements are met.
 
