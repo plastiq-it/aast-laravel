@@ -83,3 +83,5 @@ You can be creative and expand functionality as long as requirements are met.
 
 
 Happy Coding!
+
+Email us if you have any questions: ryan@plastiq.it and marco@plastiq.it
