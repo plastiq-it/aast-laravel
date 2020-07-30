@@ -6,12 +6,12 @@ The assessment has two parts:
 
 #### Part 1
 
-The candidate needs to implement a backend REST API - GET `/api/products/` which returns a list of all
+The candidate needs to implement a backend `REST` API - GET `/api/products/` which returns a list of all
 products. 
 
 #### Part 2
 
-The candidate needs to display all products in Wordpress page then the public user is able to see a list of products on Web page.
+The candidate needs to display all products in `Wordpress` page then the public user is able to see a list of products on Web page.
 
 
 This is a take-away assessment should take no longer than 2-3 hours.
